@@ -1,0 +1,14 @@
+{
+  "siteName": "Settings",
+  "header": {
+    "links": [
+      {
+        "text": "Test Link",
+        "url": "/test-link"
+      }
+    ]
+  },
+  "footer": {
+    "name": "Footer-Name"
+  }
+}
