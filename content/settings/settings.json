@@ -1,10 +1,22 @@
 {
-  "siteName": "Settings",
+  "siteName": "My Blog",
   "header": {
     "links": [
       {
-        "text": "Test Link",
-        "url": "/test-link"
+        "text": "Test",
+        "url": "/test"
+      },
+      {
+        "text": "Posts",
+        "url": "/posts/"
+      },
+      {
+        "text": "About",
+        "url": "/about"
+      },
+      {
+        "text": "Home",
+        "url": "/"
       }
     ]
   },
