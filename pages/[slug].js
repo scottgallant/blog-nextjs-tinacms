@@ -14,6 +14,7 @@ export default function Home(props) {
   const content = data.page.body;
   return (
     <Layout>
+      <h1 className="text-3xl font-bold underline">{data.page.title}</h1>
       <TinaMarkdown content={content} />
     </Layout>
   );
